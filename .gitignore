@@ -1,0 +1,6 @@
+# Editor directories and files
+.vscode
+
+# Project-specific ignore
+_git_quick_commit_current_branch.bat
+
